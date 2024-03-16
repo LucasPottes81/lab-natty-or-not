@@ -4,9 +4,9 @@
 I.A falando sobre o quão I.As generativas podem ser úteis no dia a dia.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
-D-ID
-Eleven Labs
+ChatGPT.
+D-ID.
+Eleven Labs.
 
 ## 🧐 Processo de Criação
 Pedi para o chat GPT gerar o texto. logo depois copiei e colei no Eleven Labs para gerar a voz. Baixei o aúdio e upei no D-ID para poder fazer o vídeo.
